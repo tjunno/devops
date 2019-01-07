@@ -1,0 +1,8 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS               NAMES
+c1337011a3e1        nginx               "nginx -g 'daemon of…"   10 seconds ago      Up 8 seconds        80/tcp              dreamy_chaplygin
+bc491c39db76        nginx               "nginx -g 'daemon of…"   2 minutes ago       Up 2 minutes        80/tcp              hungry_stallman
+41e8674ce041        nginx               "nginx -g 'daemon of…"   2 minutes ago       Up 2 minutes        80/tcp              reverent_shockley
+
+CONTAINER ID        IMAGE               COMMAND                  CREATED              STATUS              PORTS               NAMES
+c1337011a3e1        nginx               "nginx -g 'daemon of…"   About a minute ago   Up About a minute   80/tcp              dreamy_chaplygin
+bc491c39db76        nginx               "nginx -g 'daemon of…"   3 minutes ago        Up 3 minutes        80/tcp              hungry_stallman
