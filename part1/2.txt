@@ -1,0 +1,19 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                     PORTS               NAMES
+c1337011a3e1        nginx               "nginx -g 'daemon of…"   3 minutes ago       Up 3 minutes               80/tcp              dreamy_chaplygin
+bc491c39db76        nginx               "nginx -g 'daemon of…"   6 minutes ago       Up 6 minutes               80/tcp              hungry_stallman
+41e8674ce041        nginx               "nginx -g 'daemon of…"   6 minutes ago       Exited (0) 2 minutes ago           
+
+REPOSITORY                  TAG                 IMAGE ID            CREATED             SIZE
+docker4w/nsenter-dockerd    latest              2f1c802f322f        2 months ago        187kB
+composetest_web             latest              f332eaaed4e5        11 months ago       93.2MB
+python                      3.4-alpine          5c72717ec319        11 months ago       82.8MB
+redis                       alpine              d3117424aaee        11 months ago       27.1MB
+ubuntu                      latest              0458a4468cbc        11 months ago       112MB
+alpine                      latest              3fd9065eaf02        12 months ago       4.15MB
+nginx                       latest              3f8a4339aadd        12 months ago       108MB
+<none>                      <none>              cae870735e91        14 months ago       187kB
+dockersamples/static-site   latest              f589ccde7957        2 years ago         191MB
+
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
