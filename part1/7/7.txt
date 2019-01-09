@@ -1,0 +1,2 @@
+docker run --name frontti -p 5000:5000 frontti
+docker run --name bakki -p 8000:8000 bakki
