@@ -1,0 +1,1 @@
+Development environment for C/C++ without editor. Run with volume you as you like. Docker repo: [https://cloud.docker.com/repository/docker/tjunno/devi](https://cloud.docker.com/repository/docker/tjunno/devi)
